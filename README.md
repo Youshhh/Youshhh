@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youshhh
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning React
 
 <!---
 Youshhh/Youshhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
